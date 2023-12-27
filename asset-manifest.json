@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PasswordGenerator/static/css/main.3d2767f3.css",
+    "main.js": "/PasswordGenerator/static/js/main.fd34410c.js",
+    "static/js/787.05c9a8b4.chunk.js": "/PasswordGenerator/static/js/787.05c9a8b4.chunk.js",
+    "index.html": "/PasswordGenerator/index.html",
+    "main.3d2767f3.css.map": "/PasswordGenerator/static/css/main.3d2767f3.css.map",
+    "main.fd34410c.js.map": "/PasswordGenerator/static/js/main.fd34410c.js.map",
+    "787.05c9a8b4.chunk.js.map": "/PasswordGenerator/static/js/787.05c9a8b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d2767f3.css",
+    "static/js/main.fd34410c.js"
+  ]
+}
